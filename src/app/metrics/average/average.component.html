@@ -1,0 +1,18 @@
+<div>
+    <h3 class="title">Average Metrics</h3>
+    <div class="card">
+      <div class="temp-value">
+        <h3>Temperature</h3>
+        <h1>{{ temperature }}<span *ngIf="temperature !== 'Loading...' && temperature !== 'Error fetching data'">°C</span></h1>
+      </div>
+      <div class="hum-value">
+        <h3>Humidity</h3>
+        <h1>{{ humidity }}<span *ngIf="humidity !== 'Loading...' && humidity !== 'Error fetching data'">%</span></h1>
+      </div>
+      <div class="pro-value">
+        <h3>Product Count</h3>
+        <h1>{{ productCount }}</h1>
+      </div>
+    </div>
+  </div>
+  
