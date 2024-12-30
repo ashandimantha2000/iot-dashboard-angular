@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "icon": "https://robohash.org/quaeratquismaxime.png?size=50x50&set=set1",
+    "firstName": "Petronille",
+    "lastName": "Belin",
+    "designation": "VP Product Management",
+    "insuranceBalance": 1050.43,
+    "rbtProgress": 81
+  },
+  {
+    "id": 2,
+    "icon": "https://robohash.org/suntveritatisaspernatur.png?size=50x50&set=set1",
+    "firstName": "Gabriellia",
+    "lastName": "Orwin",
+    "designation": "Professor",
+    "insuranceBalance": 590.69,
+    "rbtProgress": 50
+  },
+  {
+    "id": 3,
+    "icon": "https://robohash.org/auttemporibusnesciunt.png?size=50x50&set=set1",
+    "firstName": "Sawyer",
+    "lastName": "Wicher",
+    "designation": "Registered Nurse",
+    "insuranceBalance": 4345.03,
+    "rbtProgress": 46
+  },
+  {
+    "id": 4,
+    "icon": "https://robohash.org/doloreconsequaturvoluptas.png?size=50x50&set=set1",
+    "firstName": "Yorker",
+    "lastName": "Gerhardt",
+    "designation": "Help Desk Technician",
+    "insuranceBalance": 2298.12,
+    "rbtProgress": 86
+  },
+  {
+    "id": 5,
+    "icon": "https://robohash.org/illovoluptatumsit.png?size=50x50&set=set1",
+    "firstName": "Norene",
+    "lastName": "Pactat",
+    "designation": "Legal Assistant",
+    "insuranceBalance": 3291.25,
+    "rbtProgress": 92
+  },
+  {
+    "id": 6,
+    "icon": "https://robohash.org/dictaaliasad.png?size=50x50&set=set1",
+    "firstName": "Laney",
+    "lastName": "Boot",
+    "designation": "General Manager",
+    "insuranceBalance": 791.18,
+    "rbtProgress": 78
+  }
+]

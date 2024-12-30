@@ -1,0 +1,23 @@
+<div>
+  <div class="card">
+    <h1>The Title</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae, blanditiis
+      adipisci. Provident commodi, assumenda earum dolores vel deserunt
+      exercitationem et omnis sequi distinctio sit voluptatem ipsa ea similique
+      molestias. Quis!
+    </p>
+  </div>
+  <h2>{{name}}</h2>
+  <table>
+    <tr>
+      <td>Employee Name</td>
+      <td>Employee Name</td>
+      <td>Employee Salary</td>
+    </tr>
+    <tr *ngFor="let employee of employees">
+      <td>{{employee.firstName}}</td>
+        <td>{{employee.lastName}}</td>
+    </tr>
+  </table>
+</div>
